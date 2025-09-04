@@ -19,4 +19,4 @@ Answer 8: commit 58b0aedea6c3c4636c21cd6ffad01ea3dc45bc36
 Answer 9: On branch main
     Your branch is up to date with 'origin/main'.
 
-Answer 10:
+Answer 10: No, they didn't. They're out of sync.
