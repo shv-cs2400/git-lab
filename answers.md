@@ -20,3 +20,9 @@ Answer 9: On branch main
     Your branch is up to date with 'origin/main'.
 
 Answer 10: No, they didn't. They're out of sync.
+
+Answer 11: It failed because I don't have the updated files.
+
+Answer 12: The online changes were pulled to my device, so what was online at the time is now on my devise. The changes I made online were reflected in my local copy.
+
+Answer 13: . .. .git .gitignore README.md
